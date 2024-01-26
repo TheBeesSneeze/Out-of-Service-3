@@ -24,3 +24,7 @@ MonoBehaviour:
   loopEnterTime: 0
   scenarioStartCallbackChannel: {fileID: 0}
   scenarioEndCallbackChannel: {fileID: 0}
+  speechText: []
+  beginTime: []
+  endTime: []
+  timeElapsed: 0

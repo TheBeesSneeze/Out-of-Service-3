@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/KyleScene.unity
     guid: 3cbf2caeb404e19479626f711dccdd0a
   - enabled: 1
-    path: Assets/Scenes/Out of Service 2.unity
+    path: Assets/Scenes/Test Scene.unity
     guid: c86abea38a711f54c91acb6600d93c76
   m_configObjects: {}

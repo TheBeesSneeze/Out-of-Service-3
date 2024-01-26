@@ -1283,7 +1283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd3566b457e08e748b5903d2fc1e9783, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentScenario: {fileID: 11400000, guid: 768f80c704dea7b46b83532f9f4ee108, type: 2}
+  currentScenario: {fileID: 0}
   videoParent: {fileID: 305056666}
   timeElapsedChannel: {fileID: 11400000, guid: 339aa48be2143104588dad10ef90050b, type: 2}
   scenarioProgressorChannel: {fileID: 11400000, guid: 106f3903f8355f84fa346259715224ff, type: 2}
