@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d358a003be2f3ea4f85932774ba11c00, type: 3}
+  m_Name: Choice 1
+  m_EditorClassIdentifier: 
+  videoClip: {fileID: 32900000, guid: bd81fe495864d0c41b98955a12582244, type: 3}
+  timeElapsedChannel: {fileID: 11400000, guid: 339aa48be2143104588dad10ef90050b, type: 2}
+  scenarioProgressorChannel: {fileID: 11400000, guid: 106f3903f8355f84fa346259715224ff, type: 2}
+  choicesToBeMade: 0
+  popups: []
+  nextScenario: {fileID: 0}
+  enableLooping: 0
+  seekRequestChannel: {fileID: 11400000, guid: a84385fc3cfe642429c3ad795e3dfb6e, type: 2}
+  loopBeginningTime: 0
+  loopEnterTime: 0
+  scenarioStartCallbackChannel: {fileID: 0}
+  scenarioEndCallbackChannel: {fileID: 0}
